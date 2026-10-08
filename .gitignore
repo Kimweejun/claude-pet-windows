@@ -1,0 +1,7 @@
+# runtime files created in ~\.clawdex (never committed, listed in case the repo is cloned there)
+config.json
+events.log
+daemon.log
+clawdex.ico
+bin/
+*.clawdex-backup
